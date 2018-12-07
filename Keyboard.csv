@@ -1,0 +1,5 @@
+Name,Quantity,Component
+U1,1, Arduino Uno R3 
+"Sb1, Sb2, Sb3, Sb4, Sb5, Sb6",6, Pushbutton 
+PIEZOSound,1, Piezo 
+"RR1, RR2, RR3, RR4, RR5, RR6, RR0",7,1 kohm Resistor 
